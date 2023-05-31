@@ -10970,3 +10970,28 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* * {
+  background-color: rgb(0, 31, 91);
+} */
+
+/* #page-top > div {
+  background-color: rgb(0, 31, 91);
+} */
+
+@import url('https://fonts.cdnfonts.com/css/univers-lt-std');
+@import url('https://fonts.cdnfonts.com/css/kenyan-coffee-2');
+
+@font-face {
+  font-family: 'Univers LT Std', sans-serif;
+  src: url('https://fonts.cdnfonts.com/css/univers-lt-std') format('woff')
+}
+
+@font-face {
+  font-family: 'Kenyan Coffee', sans-serif;
+  src: url('https://fonts.cdnfonts.com/css/kenyan-coffee-2') format('woff')
+}
+
+* {
+  font-family: 'Univers LT Std', sans-serif, 'Kenyan Coffee', sans-serif;
+}
