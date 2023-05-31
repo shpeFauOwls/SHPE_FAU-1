@@ -10877,7 +10877,7 @@ p.lead {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
-  color: rgb(252, 240, 214);
+  /* color: rgb(252, 240, 214); */
 }
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
