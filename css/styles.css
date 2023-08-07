@@ -11019,3 +11019,7 @@ h1, h2 {
 .mb-0 {
   color: white;
 }
+
+.img-fluid {
+  margin-bottom: 20px;
+}
